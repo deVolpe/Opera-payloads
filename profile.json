@@ -1,0 +1,1364 @@
+{
+  "profileIdList": [
+    {
+      "id": "string",
+      "type": "string"
+    }
+  ],
+  "externalReferences": [
+    {
+      "id": "string",
+      "idContext": "string"
+    }
+  ],
+  "profileDetails": {
+    "customer": {
+      "personName": [
+        {
+          "namePrefix": "string",
+          "givenName": "string",
+          "middleName": "string",
+          "surname": "string",
+          "nameSuffix": "string",
+          "nameTitle": "string",
+          "nameTitleSuffix": 0,
+          "envelopeGreeting": "string",
+          "salutation": "string",
+          "nameType": "Primary",
+          "language": "KQ-A8-k7jT9-kk3-e-LnmN4I-CJ-9C-oHxfy-p-hRLC-GyZG-jWyCc-tdz15u-NAr62L-MDQGMFw-3kL2kI0-tp-wK-Ljou-vx0F7Iq-nNV-4I-bEG4tMR-6fxA-8h-bI-5K6ER8Q-QL30JSg-3-dqAf6V-4ov-pDfLz-aWn-KAxO7-1V9zN-A0xOSW6a-e658F-zGGq-TgwL-H-aQe-MZ4Vtr-n3-gLC-dou6y-e-FUgPL-2u26f9Js-zeOaI5-Lkye-MS2h-x6"
+        }
+      ],
+      "anonymization": {
+        "anonymizationStatus": "Requested",
+        "anonymizationDate": "2023-04-06T13:59:53.938Z"
+      },
+      "citizenCountry": {
+        "value": "string",
+        "code": "string"
+      },
+      "identifications": {
+        "identificationInfo": [
+          {
+            "identification": {
+              "idType": "string",
+              "idNumber": "string",
+              "idNumberMasked": "string",
+              "issuedCountry": "string",
+              "issuedDate": "2023-04-",
+              "issuedPlace": "string",
+              "expirationDate": "2023-04-",
+              "registeredProperty": "string",
+              "primaryInd": true,
+              "orderSequence": 0
+            },
+            "id": "string",
+            "type": "string"
+          }
+        ],
+        "hasMore": true,
+        "totalResults": 0,
+        "count": 0
+      },
+      "profession": "string",
+      "alienInfo": {
+        "alienRegistrationNo": "string",
+        "immigrationStatus": "string",
+        "visaValidityType": "string"
+      },
+      "birthCountry": {
+        "value": "string",
+        "code": "string"
+      },
+      "legalCompany": "string",
+      "companyInfo": {
+        "legalCompany": "string",
+        "department": "string",
+        "position": "string"
+      },
+      "businessTitle": "string",
+      "gender": "Male",
+      "birthDate": "2023-04-",
+      "birthDateMasked": "string",
+      "currencyCode": "string",
+      "currencySymbol": "string",
+      "decimalPlaces": 0,
+      "language": "lUFElcc-YyPphGs-BFHlv-4lteG0-a-a-WSoFX6-Bl2H0Jvl-yNX0-GUaBrbk-S6o6-b-mAR1RdIJ-m0e-dOD4Ls7e-mgP8EA-XEjeAQa9-i0-5y-ehkBtObs-hCWXPnYE-sRdJ3f5O-mgX-PE-k3MJd4HG-hYvKXx-GZxqM-uOCgQ-gGp-yb7570C-I5dYNW-WSTh-jX-E3-vukNqpqy-04Q-SB61JG1-2u1-O44hG-2Hr9mE-bzlHJ-BWIIvY-MA-hROx7-lh-Hmv7g8Oo-JTa-9-S3J9us-VNhIXh-JO0sm-uAG-v-BICfkE3-D8jjnLE7-coHV2-S-tbH-K3vN-CaZ-oyM2bJ-dPXQt-OahcYZ-Aot-mJiwmFKx-WV-qeqR5A-QOG-KvQ-9KTQNoBy-E-No3WrOmN-rydwMPf-ZVGz-l4KXacPs-r28kMQ3w-XxN-zE9FhSp-736H-N3ne-9utitV-WW9tN-4QPDLdeX-FEH8Z2l-Lke",
+      "nationality": "string",
+      "nationalityDescription": "string",
+      "customerValue": "string",
+      "creditRating": "string",
+      "vipStatus": "string",
+      "vipDescription": "string",
+      "birthPlace": "string",
+      "privateProfile": true,
+      "blacklist": true
+    },
+    "company": {
+      "companyName": "string",
+      "companyName2": "string",
+      "companyName3": "string",
+      "alternateName": "string",
+      "alternateLanguage": "string",
+      "businessLocale": "string",
+      "iATAInfo": {
+        "iATACompany": "string",
+        "iATAConsortia": "string",
+        "iATAValidationResult": true
+      },
+      "businessTitle": "string",
+      "currencyCode": "string",
+      "currencySymbol": "string",
+      "decimalPlaces": 0,
+      "language": "BrW-uqSYP0x-p1-lM-Dl-pJIRBEm-Bs-aMaVEHBR-fmNK1-wW-J7sdbNtZ-3-9hCR-JPkCGk-HFS-Wjp0s-bfy-auL-xeOp340C-N9-N-7s-GnsDI-zc0E-i-TZ6-o7-E-t-0vN7W-qa-J0c-BcpWoxp-yMf6F-jWy-iWRyww-LA-KdSEi-dfGYp06-qG-jWeii2-QUQjA-A56N-r9mqmMIo-cSi-CNLeJtUN-PryvVPB-Jna-QQst-ESU-aJwnQJ-5u6jcN0C-sTZoqc-P-QKRIcPgp-tcE-McUVh-tI-bBX-IMOa4ux6-LJ48-IsQNUQq0-vgDBWw-aw-G796K",
+      "nationality": "string",
+      "nationalityDescription": "string",
+      "commissionCode": "string",
+      "creditRating": "string",
+      "corporateIdType": "string",
+      "vipStatus": "string",
+      "vipDescription": "string",
+      "blacklist": true
+    },
+    "profileImage": {
+      "language": "D-4-wo0OI-zTi0RNzH-uhEUhX-y9GeWcM5-DggL-HhFKom7-VgRG7-DUN-f7ZBjPj-vZ7nObs-dGUGxz6",
+      "imageSet": "string",
+      "sequenceId": 0,
+      "imageStyle": "Full",
+      "imageType": "string",
+      "hotelId": "string",
+      "chainCode": "string",
+      "imageURL": "string",
+      "description": "string",
+      "imageOrder": 0,
+      "website": "string"
+    },
+    "addresses": {
+      "addressInfo": [
+        {
+          "address": {
+            "isValidated": true,
+            "addressLine": [
+              "string"
+            ],
+            "cityName": "string",
+            "postalCode": "string",
+            "cityExtension": "string",
+            "county": "string",
+            "state": "string",
+            "country": {
+              "value": "string",
+              "code": "string"
+            },
+            "language": "W-kXiFZtQE-y-zwfEDZH-9exTdw-GQBzmdf-I7uxCy-vX-4kGszA-eVzj6c-S0mT-kIrSlLQl-TQJttyrl-PmrWDM-FZ-d9UI6ev-Z-A-KOlCTG-xG-DIELla-YOnT-nMUBmIVJ-AjFXKM-yqOYHRy3-KmgrSv-sKXotnK-Ii0-ZRmCca-xC99AjB-J-K-CSw9MiB8-Zke-acTTxZf-YbQ-we5u-qbDHw-i0-Z2-ca8M3S-IPVTBuF8-r-muXv-fVTLmd-o7X52QJ-o6TR-F0qJuo-VZIrFg1B-vD-ZEK1Er-0Kv5oyVQ-p3I-QY8Gp-s27B-S8Q-OmJ-MkPdf1q-c40f0lYX-wwtiLb-lXbXpfE-YkCXNz-ZBy89su-D6-xYHg7FZ-sQef11e-JC7FIY1-hj-fglxCe-VRepLx-Bx27Y-5224Gbp-gvpxV-r-fvmEo-nQqP4QQG-bSnUi-j0-GElNGOT-JCbyY-Er0JEl-MM-ZPHHf-MzpNV",
+            "type": "string",
+            "typeDescription": "string",
+            "primaryInd": true,
+            "updateReservations": true,
+            "barCode": "string",
+            "createDateTime": "2023-04-06T13:59:53.940Z",
+            "creatorId": "string",
+            "lastModifyDateTime": "2023-04-06T13:59:53.940Z",
+            "lastModifierId": "string"
+          },
+          "id": "string",
+          "type": "string"
+        }
+      ],
+      "totalResults": 0,
+      "count": 0
+    },
+    "businessSegments": [
+      "string"
+    ],
+    "territory": "string",
+    "traceCode": "string",
+    "ownerCode": "string",
+    "influenceCode": "string",
+    "telephones": {
+      "telephoneInfo": [
+        {
+          "telephone": {
+            "phoneTechType": "string",
+            "phoneUseType": "string",
+            "phoneUseTypeDescription": "string",
+            "phoneNumber": "string",
+            "extension": "string",
+            "primaryInd": true,
+            "orderSequence": 0,
+            "createDateTime": "2023-04-06T13:59:53.940Z",
+            "creatorId": "string",
+            "lastModifyDateTime": "2023-04-06T13:59:53.940Z",
+            "lastModifierId": "string"
+          },
+          "id": "string",
+          "type": "string"
+        }
+      ],
+      "totalResults": 0,
+      "count": 0
+    },
+    "emails": {
+      "emailInfo": [
+        {
+          "email": {
+            "emailAddress": "string",
+            "type": "string",
+            "typeDescription": "string",
+            "emailFormat": "Html",
+            "primaryInd": true,
+            "orderSequence": 0,
+            "createDateTime": "2023-04-06T13:59:53.940Z",
+            "creatorId": "string",
+            "lastModifyDateTime": "2023-04-06T13:59:53.940Z",
+            "lastModifierId": "string"
+          },
+          "id": "string",
+          "type": "string"
+        }
+      ],
+      "totalResults": 0,
+      "count": 0
+    },
+    "uRLs": {
+      "uRLInfo": [
+        {
+          "url": {
+            "value": "string",
+            "type": "string",
+            "typeDescription": "string",
+            "primaryInd": true,
+            "orderSequence": 0
+          },
+          "id": "string",
+          "type": "string"
+        }
+      ],
+      "hasMore": true,
+      "totalResults": 0,
+      "count": 0
+    },
+    "comments": {
+      "commentInfo": [
+        {
+          "comment": {
+            "text": {
+              "value": "string",
+              "language": "y-qOuB-y-3g-bBgh7-E-E96Y8-J8yjMEH-rJup4r-s-s-jvP-cTJ-g22sI1-Hns-uXOqyI-GQN7iALl-r-zE79eR-pMvtLB0-MYVJRL-PLv-sScI-as7r-w8gH2f-Yqn-M2szu-9z6-33"
+            },
+            "commentTitle": "string",
+            "notificationLocation": "string",
+            "type": "string",
+            "typeDescription": "string",
+            "internal": true,
+            "confidential": true,
+            "overrideInternal": true,
+            "protectDescription": true,
+            "hotelId": "string",
+            "actionType": "string",
+            "actionDate": "2023-04-",
+            "createDateTime": "2023-04-06T13:59:53.940Z",
+            "creatorId": "string",
+            "lastModifyDateTime": "2023-04-06T13:59:53.940Z",
+            "lastModifierId": "string"
+          },
+          "createDateTime": "2023-04-06T13:59:53.940Z",
+          "creatorId": "string",
+          "lastModifyDateTime": "2023-04-06T13:59:53.940Z",
+          "lastModifierId": "string",
+          "id": "string",
+          "type": "string"
+        }
+      ],
+      "hasMore": true,
+      "totalResults": 0,
+      "count": 0
+    },
+    "profileDeliveryMethods": {
+      "profileDeliveryMethod": [
+        {
+          "deliveryId": {
+            "id": "string",
+            "type": "string"
+          },
+          "deliveryType": "string",
+          "deliveryValue": "string",
+          "hotelId": "string",
+          "deliveryModule": "EfolioExport",
+          "primaryInd": true,
+          "orderSequence": 0
+        }
+      ],
+      "hasMore": true,
+      "totalResults": 0,
+      "count": 0
+    },
+    "profileMemberships": {
+      "profileMembership": [
+        {
+          "comment": {
+            "text": {
+              "value": "string",
+              "language": "yFRLiab-Gte9Njq-KxiLBq-VUJM-Af9-8xbhMr7A-IVK-cl-CjG-zxv1TJ-FimaA8V-UqdSAJim-uXMJ-lGy-D82VMp-jzwB-uZaJ51S-A8veHSMw-SO12-q1wWGKQ1-Q7wISe3-9L2V9rW-hKc-c86113f-mIzN-E-S3u-0-umV-uq-lHw-HWI0-p3eM-5Sk-k-thm3QT-n66kWl-XqhJ-0-seI8Ilfr-kAFwlE9-W-6-HQUkyQ-j4Wn-TpCIH-7-fu-to-OB6YdEV-eBRyqJh"
+            },
+            "url": "string"
+          },
+          "newMembershipNumber": "string",
+          "nameOnCard": "string",
+          "programDescription": "string",
+          "membershipLevel": "string",
+          "membershipLevelDescription": "string",
+          "membershipClass": "string",
+          "earningPreference": "Points",
+          "inactive": true,
+          "benefits": [
+            {
+              "code": "string",
+              "message": "string",
+              "inactive": true
+            }
+          ],
+          "tierAdministration": "Disabled",
+          "downgrade": "Grace",
+          "reIssueNewCard": "Pending",
+          "excludeFromBatch": true,
+          "upgradeDescription": "string",
+          "downgradeDescription": "string",
+          "rating": "string",
+          "membershipEnrollmentCode": "string",
+          "memberStatus": "string",
+          "currentPoints": 0,
+          "pointsLabel": "string",
+          "enrollmentSource": "string",
+          "enrollmentResort": "string",
+          "preferredCard": true,
+          "membershipId": "string",
+          "membershipType": "string",
+          "primaryMembershipYn": "s",
+          "primaryMembership": true,
+          "membershipIdNo": 0,
+          "playerRanking": 0,
+          "centralSetup": true,
+          "signupDate": "2023-04-",
+          "effectiveDate": "2023-04-",
+          "expireDate": "2023-04-",
+          "expireDateExclusiveIndicator": true,
+          "orderSequence": 0,
+          "createDateTime": "2023-04-06T13:59:53.941Z",
+          "creatorId": "string",
+          "lastModifyDateTime": "2023-04-06T13:59:53.941Z",
+          "lastModifierId": "string"
+        }
+      ],
+      "totalResults": 0,
+      "count": 0
+    },
+    "preferenceCollection": {
+      "preferenceType": [
+        {
+          "preference": [
+            {
+              "preferenceValue": "string",
+              "description": "string",
+              "global": true,
+              "source": "string",
+              "hotels": [
+                "string"
+              ],
+              "preferenceCode": "string",
+              "excludedPreferencesCount": 0
+            }
+          ],
+          "preferenceType": "string",
+          "preferenceTypeDescription": "string",
+          "sequence": "string",
+          "maxQuantity": 0,
+          "availableQuantity": 0,
+          "maxResortUsedQuantity": 0,
+          "reservationPreference": true,
+          "createDateTime": "2023-04-06T13:59:53.941Z",
+          "creatorId": "string",
+          "lastModifyDateTime": "2023-04-06T13:59:53.941Z",
+          "lastModifierId": "string"
+        }
+      ],
+      "totalResults": 0,
+      "count": 0
+    },
+    "keywords": {
+      "keyword": [
+        {
+          "keywordDetail": {
+            "newKeyword": "string"
+          },
+          "type": "string",
+          "keyword": "string"
+        }
+      ],
+      "hasMore": true,
+      "totalResults": 0,
+      "count": 0
+    },
+    "negotiatedRates": {
+      "negotiatedRate": [
+        {
+          "negotiatedInfoList": [
+            {
+              "corporateAgreementId": "string",
+              "comissionCode": "string",
+              "order": 0,
+              "inactive": true,
+              "start": "2023-04-",
+              "end": "2023-04-"
+            }
+          ],
+          "hotelId": "string",
+          "rateCode": "string"
+        }
+      ],
+      "hasMore": true,
+      "totalResults": 0,
+      "count": 0
+    },
+    "gdsNegotiatedRates": {
+      "gdsNegotiatedRate": [
+        {
+          "gdsNegotiatedInfoList": [
+            {
+              "accessCode": "string",
+              "order": 0,
+              "inactive": true,
+              "start": "2023-04-",
+              "end": "2023-04-"
+            }
+          ],
+          "bookingChannelCode": "string",
+          "hotelId": "string",
+          "channelRatePlanCode": "string"
+        }
+      ],
+      "hasMore": true,
+      "totalResults": 0,
+      "count": 0
+    },
+    "profileIndicators": [
+      {
+        "indicatorName": "string",
+        "count": 0
+      }
+    ],
+    "relationships": {
+      "relationship": [
+        {
+          "changeRelationship": {
+            "id": "string",
+            "relation": "string",
+            "relationDescription": "string",
+            "targetRelation": "string",
+            "targetRelationDescription": "string"
+          },
+          "relationshipProfile": {
+            "customer": {
+              "personName": [
+                {
+                  "namePrefix": "string",
+                  "givenName": "string",
+                  "middleName": "string",
+                  "surname": "string",
+                  "nameSuffix": "string",
+                  "nameTitle": "string",
+                  "nameTitleSuffix": 0,
+                  "envelopeGreeting": "string",
+                  "salutation": "string",
+                  "nameType": "Primary",
+                  "language": "vFEITe-a1yKU7-9WgESJ-1syuZt-7xoMpzHt-OC5-a8drFmR8-5Uzca-MYf-lRovzjHW-GyIy-NdxOQh-iPkc-G3B5N-dQCcw-os0-0Ys-l2SdXzOD-EUxBKl"
+                }
+              ],
+              "anonymization": {
+                "anonymizationStatus": "Requested",
+                "anonymizationDate": "2023-04-06T13:59:53.941Z"
+              },
+              "citizenCountry": {
+                "value": "string",
+                "code": "string"
+              },
+              "identifications": {
+                "identificationInfo": [
+                  {
+                    "identification": {
+                      "idType": "string",
+                      "idNumber": "string",
+                      "idNumberMasked": "string",
+                      "issuedCountry": "string",
+                      "issuedDate": "2023-04-",
+                      "issuedPlace": "string",
+                      "expirationDate": "2023-04-",
+                      "registeredProperty": "string",
+                      "primaryInd": true,
+                      "orderSequence": 0
+                    },
+                    "id": "string",
+                    "type": "string"
+                  }
+                ],
+                "hasMore": true,
+                "totalResults": 0,
+                "count": 0
+              },
+              "profession": "string",
+              "alienInfo": {
+                "alienRegistrationNo": "string",
+                "immigrationStatus": "string",
+                "visaValidityType": "string"
+              },
+              "birthCountry": {
+                "value": "string",
+                "code": "string"
+              },
+              "legalCompany": "string",
+              "companyInfo": {
+                "legalCompany": "string",
+                "department": "string",
+                "position": "string"
+              },
+              "businessTitle": "string",
+              "gender": "Male",
+              "birthDate": "2023-04-",
+              "birthDateMasked": "string",
+              "currencyCode": "string",
+              "currencySymbol": "string",
+              "decimalPlaces": 0,
+              "language": "JMnGd-Dsu-uvT625l-xA-RdC-J-SzC5b2h-qZEYiM-U5Xiwm-1-kGqP7s-Z4m-uApcya-IhqP-7Odh6czG-ygrT-Crklj-5w3-0fG-R-d0-AC0jDs-c-B-RkN1-wLZ1QL9m-C-qopT-6-G7hX3x-UPbGyc9-dsG-gbScoHG-vqfx-epfM-fT-dXaKeF8-XV8D-zw-0vip7r-xw3ppQ-x1S8F-eBctB-pSftFhz-dv-4RU-SJb7wy-XE-LWE-8jT2-lrrZegw-Id-pc4T0O-l3-yBU-41-ACp1TNe-6diXP-gOxA-fHnrIeES-jqwpzY0Q-KHmG8-KDCaUNh-7oN-yrYrSFb-tXN-pTFimYe-rO-nw-GN9y6YlJ-doJd4nw-cvHKzt-JlFPP-qYzo-QrlXf-Viczhl4j",
+              "nationality": "string",
+              "nationalityDescription": "string",
+              "customerValue": "string",
+              "creditRating": "string",
+              "vipStatus": "string",
+              "vipDescription": "string",
+              "birthPlace": "string",
+              "privateProfile": true,
+              "blacklist": true
+            },
+            "company": {
+              "companyName": "string",
+              "companyName2": "string",
+              "companyName3": "string",
+              "alternateName": "string",
+              "alternateLanguage": "string",
+              "businessLocale": "string",
+              "iATAInfo": {
+                "iATACompany": "string",
+                "iATAConsortia": "string",
+                "iATAValidationResult": true
+              },
+              "businessTitle": "string",
+              "currencyCode": "string",
+              "currencySymbol": "string",
+              "decimalPlaces": 0,
+              "language": "RPHbi-LRy16w-G2xbS-doOr-P-o-v-aHQd-ChC9bL6V-Qhs-bBgdd6TY-E2SG-543o1JL-fKiwfgQS-uUsOU7-hjXNd-MwA-Pme3Zz-FaO0gnVs-7HL6-Gsj7-uCtwX8z-3-Cd3ras-uRofkNKT-YWzKi-BN-a23QI-bzln5l-NrgLDGH9-S-uBd7P-4AEhAzS-Esbl-2Pl7V-0OwK-Hd3zjkkQ-QBRgLW-vgJfMkuv-Nd0R6ef-b-n-jbs-Fh-9SO-dG-8zA0A5-r6dLRX6i-I-sMKkO0-48zY-TV3gUFB-TZN07yYx-obzX-ju1Ne-q-y-gvt62BI-eG-cbbgS-CFueT0-nYnNZCc-u2XXdvW-nQo-c-SrAZnOWc-vMa-01TdkAlz-EoAEyK-m-sSuf7-Vd252R-OfR1o-3TTbJ-Y-5TuzYQ-Fq-c-x-alHeS8-Us8-jI-794OCLM-YV33-8qnpE-whjzlB-5Qqa-CLfmiSOs-ZN-F-rMVml-Qbtbwhk1-SoQ5m0-R",
+              "nationality": "string",
+              "nationalityDescription": "string",
+              "commissionCode": "string",
+              "creditRating": "string",
+              "corporateIdType": "string",
+              "vipStatus": "string",
+              "vipDescription": "string",
+              "blacklist": true
+            },
+            "telephone": {
+              "telephone": {
+                "phoneTechType": "string",
+                "phoneUseType": "string",
+                "phoneUseTypeDescription": "string",
+                "phoneNumber": "string",
+                "extension": "string",
+                "primaryInd": true,
+                "orderSequence": 0,
+                "createDateTime": "2023-04-06T13:59:53.944Z",
+                "creatorId": "string",
+                "lastModifyDateTime": "2023-04-06T13:59:53.944Z",
+                "lastModifierId": "string"
+              },
+              "id": "string",
+              "type": "string"
+            },
+            "address": {
+              "address": {
+                "isValidated": true,
+                "addressLine": [
+                  "string"
+                ],
+                "cityName": "string",
+                "postalCode": "string",
+                "cityExtension": "string",
+                "county": "string",
+                "state": "string",
+                "country": {
+                  "value": "string",
+                  "code": "string"
+                },
+                "language": "JsUh-KtkF-S1xxm-0u0OhRxM-cFHI2h-u-ya2A-E1xc-6suRNG-hNDyH9-aM-R1-Es-GjTiTR9E-9p2Dj8H-O-S8G-eKz-wzCbJ9fx-GWRG-kUN-zTN-bG-37-ZT0YAQjF-CtQU-RVjbE",
+                "type": "string",
+                "typeDescription": "string",
+                "primaryInd": true,
+                "updateReservations": true,
+                "barCode": "string",
+                "createDateTime": "2023-04-06T13:59:53.944Z",
+                "creatorId": "string",
+                "lastModifyDateTime": "2023-04-06T13:59:53.944Z",
+                "lastModifierId": "string"
+              },
+              "id": "string",
+              "type": "string"
+            },
+            "email": {
+              "email": {
+                "emailAddress": "string",
+                "type": "string",
+                "typeDescription": "string",
+                "emailFormat": "Html",
+                "primaryInd": true,
+                "orderSequence": 0,
+                "createDateTime": "2023-04-06T13:59:53.944Z",
+                "creatorId": "string",
+                "lastModifyDateTime": "2023-04-06T13:59:53.944Z",
+                "lastModifierId": "string"
+              },
+              "id": "string",
+              "type": "string"
+            },
+            "uRLs": {
+              "url": {
+                "value": "string",
+                "type": "string",
+                "typeDescription": "string",
+                "primaryInd": true,
+                "orderSequence": 0
+              },
+              "id": "string",
+              "type": "string"
+            },
+            "primaryOwner": {
+              "hotel": {
+                "code": "string",
+                "description": "string"
+              },
+              "userId": {
+                "id": "string",
+                "type": "string"
+              },
+              "userName": "string",
+              "ownerCode": "string",
+              "profileId": {
+                "type": "string",
+                "instance": "string",
+                "idContext": "string",
+                "id": "string"
+              },
+              "name": {
+                "namePrefix": "string",
+                "givenName": "string",
+                "middleName": "string",
+                "surname": "string",
+                "nameSuffix": "string",
+                "nameTitle": "string",
+                "nameTitleSuffix": 0,
+                "envelopeGreeting": "string",
+                "salutation": "string",
+                "nameType": "Primary",
+                "language": "qhZjZ-hpVBRX-XLVzy-fb-Zz-6zSuM-HA8t-u6LxiEv1-2V92iFA-D8b-kHrj-jK-tad-W-yg1sQh-c7Kh-vI-VUS0PP2X-f-aw28CSgV-8N-7-2-gl0Z1-6Q75Oc-a-AS-DP4jf-oQ-d-rk9qQlD-4MTW-wbE1f-ICRAUz-H1aG2qw"
+              },
+              "department": {
+                "code": "string",
+                "description": "string"
+              },
+              "email": {
+                "email": {
+                  "emailAddress": "string",
+                  "type": "string",
+                  "typeDescription": "string",
+                  "emailFormat": "Html",
+                  "primaryInd": true,
+                  "orderSequence": 0,
+                  "createDateTime": "2023-04-06T13:59:53.944Z",
+                  "creatorId": "string",
+                  "lastModifyDateTime": "2023-04-06T13:59:53.944Z",
+                  "lastModifierId": "string"
+                },
+                "id": "string",
+                "type": "string"
+              },
+              "phone": {
+                "telephone": {
+                  "phoneTechType": "string",
+                  "phoneUseType": "string",
+                  "phoneUseTypeDescription": "string",
+                  "phoneNumber": "string",
+                  "extension": "string",
+                  "primaryInd": true,
+                  "orderSequence": 0,
+                  "createDateTime": "2023-04-06T13:59:53.944Z",
+                  "creatorId": "string",
+                  "lastModifyDateTime": "2023-04-06T13:59:53.944Z",
+                  "lastModifierId": "string"
+                },
+                "id": "string",
+                "type": "string"
+              },
+              "relationship": {
+                "code": "string",
+                "description": "string"
+              },
+              "primary": true
+            },
+            "profileIdList": [
+              {
+                "id": "string",
+                "type": "string"
+              }
+            ],
+            "changeProfileIdList": [
+              {
+                "id": "string",
+                "type": "string"
+              }
+            ],
+            "primary": "string",
+            "id": "string",
+            "statusCode": "Active",
+            "profileType": "Guest"
+          },
+          "masterAccountInfo": {
+            "masterAccountId": {
+              "id": "string",
+              "type": "string"
+            },
+            "masterAccountName": "string"
+          },
+          "id": "string",
+          "relation": "string",
+          "relationDescription": "string",
+          "targetRelation": "string",
+          "targetRelationDescription": "string"
+        }
+      ],
+      "hasMore": true,
+      "totalResults": 0,
+      "count": 0
+    },
+    "relationshipsSummary": {
+      "relationship": [
+        {
+          "relationshipProfile": {
+            "customerName": "string",
+            "companyName": "string",
+            "telephoneNumber": "string",
+            "address": {
+              "addressLine": [
+                "string"
+              ],
+              "city": "string",
+              "postalCode": "string",
+              "state": "string",
+              "country": "string"
+            },
+            "emailAddress": "string",
+            "ownerCode": "string",
+            "profileIdList": [
+              {
+                "id": "string",
+                "type": "string"
+              }
+            ],
+            "primary": true,
+            "profileStatus": "Active",
+            "primaryOwnerCode": true,
+            "profileType": "Guest"
+          },
+          "masterAccountDetails": {
+            "masterAccountId": {
+              "id": "string",
+              "type": "string"
+            },
+            "masterAccountName": "string"
+          },
+          "relationshipID": "string",
+          "sourceRelation": "string",
+          "sourceRelationDescription": "string",
+          "targetRelation": "string",
+          "targetRelationDescription": "string"
+        }
+      ],
+      "hasMore": true,
+      "totalResults": 0,
+      "count": 0
+    },
+    "stayReservationInfoList": {
+      "historyList": {
+        "reservationInfo": [
+          {
+            "reservationIdList": [
+              {
+                "id": "string",
+                "type": "string"
+              }
+            ],
+            "roomStay": {
+              "arrivalDate": "2023-04-06",
+              "departureDate": "2023-04-06",
+              "originalTimeSpan": {
+                "startDate": "2023-04-",
+                "endDate": "2023-04-",
+                "duration": "string"
+              },
+              "expectedTimes": {
+                "reservationExpectedArrivalTime": "2023-04-06T13:59:53.944Z",
+                "reservationExpectedDepartureTime": "2023-04-06T13:59:53.944Z"
+              },
+              "adultCount": 0,
+              "childCount": 0,
+              "roomClass": "string",
+              "roomType": "string",
+              "componentRoomType": true,
+              "numberOfRooms": 0,
+              "roomId": "string",
+              "ratePlanCode": "string",
+              "rateAmount": {
+                "amount": 0,
+                "currencyCode": "str"
+              },
+              "points": {
+                "awardsType": "string",
+                "points": 0
+              },
+              "rateSuppressed": true,
+              "reservationBlock": {
+                "blockIdList": [
+                  {
+                    "id": "string",
+                    "type": "string"
+                  }
+                ],
+                "blockName": "string",
+                "hotelId": "string"
+              },
+              "bookingChannelCode": "string",
+              "linkCode": "string",
+              "fixedRate": true,
+              "totalAmount": {
+                "amount": 0,
+                "currencyCode": "str"
+              },
+              "guarantee": {
+                "guaranteeCode": "string",
+                "shortDescription": "string",
+                "onHold": true
+              },
+              "promotion": {
+                "promotionCode": "string",
+                "promotionName": "string",
+                "couponCode": "string"
+              },
+              "marketCode": "string",
+              "marketDescription": "string",
+              "sourceCode": "string",
+              "sourceCodeDescription": "string",
+              "balance": {
+                "amount": 0,
+                "currencyCode": "str"
+              },
+              "compBalance": {
+                "amount": 0,
+                "currencyCode": "str"
+              },
+              "roomTypeCharged": "string",
+              "depositPayments": {
+                "amount": 0,
+                "currencyCode": "str"
+              },
+              "guestServiceStatus": "DoNotDisturb",
+              "scheduledCheckoutTime": "2023-04-06",
+              "roomNumberLocked": true,
+              "pseudoRoom": true,
+              "assignedByAI": true,
+              "upgradedByAI": true
+            },
+            "attachedProfiles": [
+              {
+                "name": "string",
+                "profileIdList": [
+                  {
+                    "id": "string",
+                    "type": "string"
+                  }
+                ],
+                "reservationProfileType": "Guest"
+              }
+            ],
+            "hotelId": "string",
+            "reservationStatus": "Reserved",
+            "computedReservationStatus": "Reserved"
+          }
+        ],
+        "hasMore": true,
+        "totalResults": 0,
+        "count": 0
+      },
+      "futureList": {
+        "reservationInfo": [
+          {
+            "reservationIdList": [
+              {
+                "id": "string",
+                "type": "string"
+              }
+            ],
+            "roomStay": {
+              "arrivalDate": "2023-04-06",
+              "departureDate": "2023-04-06",
+              "originalTimeSpan": {
+                "startDate": "2023-04-",
+                "endDate": "2023-04-",
+                "duration": "string"
+              },
+              "expectedTimes": {
+                "reservationExpectedArrivalTime": "2023-04-06T13:59:53.945Z",
+                "reservationExpectedDepartureTime": "2023-04-06T13:59:53.945Z"
+              },
+              "adultCount": 0,
+              "childCount": 0,
+              "roomClass": "string",
+              "roomType": "string",
+              "componentRoomType": true,
+              "numberOfRooms": 0,
+              "roomId": "string",
+              "ratePlanCode": "string",
+              "rateAmount": {
+                "amount": 0,
+                "currencyCode": "str"
+              },
+              "points": {
+                "awardsType": "string",
+                "points": 0
+              },
+              "rateSuppressed": true,
+              "reservationBlock": {
+                "blockIdList": [
+                  {
+                    "id": "string",
+                    "type": "string"
+                  }
+                ],
+                "blockName": "string",
+                "hotelId": "string"
+              },
+              "bookingChannelCode": "string",
+              "linkCode": "string",
+              "fixedRate": true,
+              "totalAmount": {
+                "amount": 0,
+                "currencyCode": "str"
+              },
+              "guarantee": {
+                "guaranteeCode": "string",
+                "shortDescription": "string",
+                "onHold": true
+              },
+              "promotion": {
+                "promotionCode": "string",
+                "promotionName": "string",
+                "couponCode": "string"
+              },
+              "marketCode": "string",
+              "marketDescription": "string",
+              "sourceCode": "string",
+              "sourceCodeDescription": "string",
+              "balance": {
+                "amount": 0,
+                "currencyCode": "str"
+              },
+              "compBalance": {
+                "amount": 0,
+                "currencyCode": "str"
+              },
+              "roomTypeCharged": "string",
+              "depositPayments": {
+                "amount": 0,
+                "currencyCode": "str"
+              },
+              "guestServiceStatus": "DoNotDisturb",
+              "scheduledCheckoutTime": "2023-04-06",
+              "roomNumberLocked": true,
+              "pseudoRoom": true,
+              "assignedByAI": true,
+              "upgradedByAI": true
+            },
+            "attachedProfiles": [
+              {
+                "name": "string",
+                "profileIdList": [
+                  {
+                    "id": "string",
+                    "type": "string"
+                  }
+                ],
+                "reservationProfileType": "Guest"
+              }
+            ],
+            "hotelId": "string",
+            "reservationStatus": "Reserved",
+            "computedReservationStatus": "Reserved"
+          }
+        ],
+        "hasMore": true,
+        "totalResults": 0,
+        "count": 0
+      }
+    },
+    "lastStayInfo": {
+      "lastVisit": "2023-04-",
+      "lastRoom": "string",
+      "lastRate": {
+        "amount": 0,
+        "currencyCode": "str"
+      },
+      "totalStay": 0
+    },
+    "profileAccessType": {
+      "chainCode": "string",
+      "croCode": "string",
+      "hotelId": "string",
+      "sharedLevel": "Global"
+    },
+    "profileRestrictions": {
+      "reason": "string",
+      "reasonDescription": "string",
+      "restricted": true
+    },
+    "mailingActions": {
+      "mailingAction": [
+        {
+          "code": "string",
+          "description": "string"
+        }
+      ],
+      "active": true,
+      "totalResults": 0,
+      "count": 0
+    },
+    "privacyInfo": {
+      "marketResearchParticipation": true,
+      "lastPrivacyPromptDate": "2023-04-",
+      "infoFromThirdParty": true,
+      "autoEnrollLoyaltyProgram": true,
+      "allowPhone": true,
+      "allowSMS": true,
+      "allowEmail": true,
+      "optInMailingList": true,
+      "optInMarketResearch": true,
+      "optInThirdParty": true,
+      "optInAutoEnrollmentMember": true,
+      "optInPhone": true,
+      "optInSms": true,
+      "optInEmail": true
+    },
+    "cashiering": {
+      "directBillingList": [
+        {
+          "hotelId": "string",
+          "aRNumber": "string"
+        }
+      ],
+      "autoFolioSettlementType": "string",
+      "paymentDueDays": 0,
+      "taxPercent1": 0,
+      "taxPercent2": 0,
+      "taxPercent3": 0,
+      "taxPercent4": 0,
+      "taxPercent5": 0,
+      "arNoCentral": "string",
+      "referenceCurrency": "string",
+      "vATOffsetYN": "s",
+      "currencyCode": "string",
+      "currencySymbol": "string",
+      "decimalPlaces": 0
+    },
+    "commissionInfoList": [
+      {
+        "hotelId": "string",
+        "commissionCode": "string",
+        "bankAccount": "string",
+        "paymentMethod": "Cent",
+        "currencyCode": "string",
+        "currencySymbol": "string",
+        "decimalPlaces": 0
+      }
+    ],
+    "userDefinedFields": {
+      "characterUDFs": [
+        {
+          "name": "string",
+          "value": "string",
+          "alternateName": "string"
+        }
+      ],
+      "numericUDFs": [
+        {
+          "name": "string",
+          "value": 0,
+          "alternateName": "string"
+        }
+      ],
+      "dateUDFs": [
+        {
+          "name": "string",
+          "value": "2023-04-",
+          "alternateName": "string"
+        }
+      ]
+    },
+    "webUserAccounts": [
+      {
+        "securityQuestion": {
+          "code": "string",
+          "description": "string"
+        },
+        "securityAnswer": "string",
+        "comments": "string",
+        "history": {
+          "createDateTime": "2023-04-06T13:59:53.945Z",
+          "creatorId": "string",
+          "lastModifyDateTime": "2023-04-06T13:59:53.945Z",
+          "lastModifierId": "string",
+          "lastLogin": "2023-04-",
+          "lastPasswordChange": "2023-04-",
+          "inactiveDate": "2023-04-"
+        },
+        "newLoginName": "string",
+        "newPassword": "string",
+        "autoGeneratePassword": true,
+        "loginName": "string",
+        "domainCode": "string",
+        "locked": true,
+        "inactive": true
+      }
+    ],
+    "taxInfo": {
+      "tax1No": "string",
+      "tax2No": "string",
+      "taxCategory": "string",
+      "taxOffice": "string",
+      "taxType": "string",
+      "businessId": "string",
+      "businessRegistration": "string"
+    },
+    "salesInfo": {
+      "scope": "string",
+      "scopeCity": "string",
+      "accountType": "string",
+      "accountSource": "string",
+      "industryCode": "string",
+      "businessSegments": "string",
+      "priority": "string",
+      "roomsPotential": "string",
+      "actionCode": "string",
+      "competitionCode": "string",
+      "influence": "string",
+      "preferredRoom": "string",
+      "hotelId": "string"
+    },
+    "eCertificates": [
+      {
+        "certificateId": 0,
+        "voucherNo": "string",
+        "certificateNo": "string",
+        "eCertificateInfo": {
+          "certificateType": "string",
+          "membershipType": "string",
+          "awardCode": "string",
+          "promotionCode": "string",
+          "voucherBenefitCode": "string",
+          "hotels": {
+            "code": [
+              "string"
+            ],
+            "scope": "Global"
+          },
+          "description": "string",
+          "longDescription": "string",
+          "label": "string",
+          "maxExtensionAllowed": 0,
+          "usageCriteria": {
+            "reservation": true,
+            "web": true,
+            "webAllowed": true,
+            "benefit": true,
+            "hotel": true,
+            "verifyCertificateNo": true,
+            "cancelAllowed": true,
+            "generateInLieuCertificate": true
+          },
+          "value": {
+            "amount": 0,
+            "currencyCode": "str"
+          },
+          "cost": {
+            "amount": 0,
+            "currencyCode": "str"
+          },
+          "benefitSummary": "string"
+        },
+        "expiryDate": "2023-04-",
+        "newExpiryDate": "2023-04-",
+        "profileId": {
+          "type": "string",
+          "instance": "string",
+          "idContext": "string",
+          "id": "string"
+        },
+        "consumptionDetail": {
+          "hotelId": "string",
+          "source": "Central",
+          "surname": "string",
+          "firstName": "string",
+          "middleName": "string",
+          "email": "string",
+          "date": "2023-04-",
+          "userName": "string",
+          "userNotes": "string",
+          "referenceId": {
+            "id": "string",
+            "type": "string"
+          },
+          "locationType": "string",
+          "authorizationCode": "string",
+          "serviceDate": "2023-04-"
+        },
+        "status": "Cancelled",
+        "printed": true,
+        "inactiveDate": "2023-04-",
+        "awardId": {
+          "type": "string",
+          "instance": "string",
+          "idContext": "string",
+          "id": "string"
+        },
+        "databaseId": "string",
+        "source": "Opera",
+        "issueType": "Assigned",
+        "issueDate": "2023-04-",
+        "awardPoints": 0,
+        "generationDetail": {
+          "ruleId": {
+            "id": "string",
+            "type": "string"
+          },
+          "generationDetail": "string",
+          "referenceValue": "string"
+        },
+        "originalVoucherNo": "string",
+        "originalCertificateNo": "string",
+        "inLieuSequence": 0,
+        "cancelRequestDate": "2023-04-",
+        "extensionCount": 0
+      }
+    ],
+    "subscriptions": [
+      {
+        "profileId": {
+          "type": "string",
+          "instance": "string",
+          "idContext": "string",
+          "id": "string"
+        },
+        "externalProfileId": {
+          "id": "string",
+          "type": "string"
+        },
+        "profileInfo": {
+          "name": "string",
+          "fullName": "string",
+          "namePrefix": "string",
+          "givenName": "string",
+          "middleName": "string",
+          "nameSuffix": "string",
+          "nameTitle": "string",
+          "nameType": "Primary",
+          "profileType": "Guest"
+        },
+        "distributed": true,
+        "force": true,
+        "subscriptionDate": "2023-04-06T13:59:53.945Z",
+        "lastDistributionDate": "2023-04-06T13:59:53.945Z",
+        "lastExternalUpdateDate": "2023-04-06T13:59:53.945Z",
+        "inactive": true,
+        "systemCode": "string",
+        "systemType": "string"
+      }
+    ],
+    "localizationGuestType": "string",
+    "eligibleForFiscalFolio": "string",
+    "roomOwnershipsList": {
+      "roomOwnershipInfo": [
+        {
+          "contractId": 0,
+          "contractNumber": "string",
+          "unit": "string",
+          "roomCategory": "string",
+          "roomType": "string",
+          "startDate": "2023-04-",
+          "endDate": "2023-04-",
+          "profileId": {
+            "id": "string",
+            "type": "string"
+          },
+          "status": "string"
+        }
+      ],
+      "hasMore": true,
+      "totalResults": 0,
+      "count": 0
+    },
+    "profileType": "Guest",
+    "statusCode": "Active",
+    "registeredProperty": "string",
+    "requestForHotel": "string",
+    "protectedBy": "string",
+    "createDateTime": "2023-04-06T13:59:53.945Z",
+    "creatorId": "string",
+    "lastModifyDateTime": "2023-04-06T13:59:53.945Z",
+    "lastModifierId": "string",
+    "markAsRecentlyAccessed": true,
+    "markForHistory": true,
+    "hasCommission": true,
+    "inheritedNegRates": true,
+    "showInactiveRoomOwners": true
+  },
+  "profileAllowedActions": [
+    "NameChange"
+  ],
+  "links": [
+    {
+      "href": "string",
+      "rel": "string",
+      "templated": false,
+      "method": "GET",
+      "targetSchema": "string",
+      "operationId": "string",
+      "title": "string"
+    }
+  ],
+  "warnings": [
+    {
+      "value": "string",
+      "shortText": "string",
+      "code": "string",
+      "docURL": "string",
+      "status": "string",
+      "tag": "string",
+      "recordId": "string",
+      "type": "string",
+      "language": "nvHPZD-LqGFdjX-B3cV4-2gkE1C-HtIfo-1I5Xg-7-u7-3q7Vf8F-OVflGEVD-G63al-poYd-2topHR-WbPNH-eL-6-okW105I-sL6zMr-Kw9wpj-sheEX-ad5D6K-8mOJb2y-4K",
+      "rph": "string"
+    }
+  ]
+}
